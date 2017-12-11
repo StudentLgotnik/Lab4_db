@@ -16,7 +16,4 @@ script:
   - ./gradlew build
 
 
-cache:
-  directories:
-  - D:/Лабы(2курс)/СУБД/Lab4_bd/.gradle
 
