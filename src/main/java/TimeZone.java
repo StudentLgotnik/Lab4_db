@@ -23,8 +23,13 @@ public class TimeZone {
         return id;
     }
 
-    public static void getTimeZoneData() throws ClassNotFoundException {
-        Connection connection = Connections.connect();
+    public static void getTimeZoneData() {
+        Connection connection = null;
+        try {
+            connection = Connections.connect();
+        } catch (ClassNotFoundException e) {
+            e.printStackTrace();
+        }
         try {
             Statement statement = connection.createStatement();
             ResultSet rset = statement.executeQuery("select * from SYSTEM.TIMEZONE");
