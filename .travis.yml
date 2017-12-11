@@ -18,5 +18,5 @@ script:
 
 cache:
   directories:
-  - D:/Лабы(2курс)/СУБД/Lab3_db/.gradle
+  - D:/Лабы(2курс)/СУБД/Lab4_bd/.gradle
 
