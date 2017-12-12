@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="75cf56c6-d0b1-46af-9274-4ced7f257be0" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/Lab4_db_test.iml" afterPath="$PROJECT_DIR$/.idea/modules/Lab4_db_test.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.travis.yml" afterPath="$PROJECT_DIR$/.travis.yml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -113,21 +116,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="true">
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="26" column="60" lean-forward="true" selection-start-line="26" selection-start-column="60" selection-end-line="26" selection-end-column="60" />
+            <state relative-caret-position="101">
+              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".travis.yml" pinned="false" current-in-tab="false">
+      <file leaf-file-name=".travis.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.travis.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="7" lean-forward="false" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+            <state relative-caret-position="170">
+              <caret line="10" column="15" lean-forward="false" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
               <folding />
             </state>
           </provider>
@@ -559,8 +562,8 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="4538766387538" />
-        <entry key="$PROJECT_DIR$/build.gradle" value="1070973593" />
+        <entry key="$PROJECT_DIR$" value="4538766670384" />
+        <entry key="$PROJECT_DIR$/build.gradle" value="3264213442" />
         <entry key="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" value="615277776" />
       </map>
     </option>
@@ -779,8 +782,8 @@
         <option value="$PROJECT_DIR$/src/main/java/Countries.java" />
         <option value="$PROJECT_DIR$/src/main/java/TimeZone.java" />
         <option value="$PROJECT_DIR$/src/test/java/TimeZoneTest.java" />
-        <option value="$PROJECT_DIR$/.travis.yml" />
         <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/.travis.yml" />
       </list>
     </option>
   </component>
@@ -1096,7 +1099,7 @@
       <workItem from="1512919842029" duration="15495000" />
       <workItem from="1512982756928" duration="650000" />
       <workItem from="1512994874057" duration="16659000" />
-      <workItem from="1513032812680" duration="3705000" />
+      <workItem from="1513032812680" duration="3899000" />
     </task>
     <servers />
   </component>
@@ -1133,7 +1136,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49561000" />
+    <option name="totallyTimeSpent" value="49755000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -1570,18 +1573,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.travis.yml">
+    <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="7" lean-forward="false" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+        <state relative-caret-position="101">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
+    <entry file="file://$PROJECT_DIR$/.travis.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="60" lean-forward="true" selection-start-line="26" selection-start-column="60" selection-end-line="26" selection-end-column="60" />
+        <state relative-caret-position="170">
+          <caret line="10" column="15" lean-forward="false" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
           <folding />
         </state>
       </provider>
